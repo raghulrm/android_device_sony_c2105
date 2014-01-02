@@ -24,4 +24,12 @@
     <integer name="def_screen_brightness">149</integer>
     <!-- Turn off gps as default -->
     <string name="def_location_providers_allowed" translatable="false"></string>
+
+    <!-- disable lock screen -->
+    <bool name="def_lockscreen_disabled">true</bool>
+
+    <!-- Change screen brightness -->
+    <bool name="def_screen_brightness_automatic_mode">true</bool>
+
+
 </resources>
