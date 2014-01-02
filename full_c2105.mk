@@ -26,6 +26,7 @@ $(call inherit-product, vendor/sony/c2105/c2105-vendor.mk)
 $(call inherit-product-if-exists, vendor/google/products/gms.mk)
 $(call inherit-product-if-exists, vendor/google/products/app/product.mk)
 $(call inherit-product-if-exists, vendor/google/products/priv-app/product.mk)
+$(call inherit-product-if-exists, vendor/redmart/products/app/product.mk)
 
 
 
